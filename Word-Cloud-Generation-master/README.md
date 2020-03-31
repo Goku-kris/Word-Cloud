@@ -1,2 +1,2 @@
-# Word-Cloud-Generation
-Word cloud generation using python . Use Jupyter Notebook for running code.
+# Word-Cloud
+Word cloud generation using python 
